@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/Catalog.css';
 import Card from './Card';
 import { products } from '../datas/sofaList';
 
